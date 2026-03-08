@@ -24,7 +24,7 @@ export const TRANSLATIONS: Record<Language, Translation> = {
         period: "Sept. 2022 – Present",
         location: "Ljubljana, Slovenia",
         technologies: ["Spring", "Spring-Boot", "Java", "Docker", "Kibana", "Grafana", "Prometheus", "FitNesse", "Lua", "Python", "Kong"],
-        summary: "Spearheading infrastructure projects for HPE, focusing on identity services and API gateway optimization.",
+        summary: "Developing infrastructure projects for HPE, focusing on identity services and API gateway optimization.",
         projects: [
           "Maintained an application and support modules integrating various identity and authorization services based on OAuth2.",
           "Developed features for a system enhancing user profiles with detailed information and roles.",
@@ -144,7 +144,7 @@ export const TRANSLATIONS: Record<Language, Translation> = {
         period: "sept. 2022 – Danes",
         location: "Ljubljana, Slovenija",
         technologies: ["Spring", "Spring-Boot", "Java", "Docker", "Kibana", "Grafana", "Prometheus", "FitNesse", "Lua", "Python", "Kong"],
-        summary: "Vodenje infrastrukturnih projektov za HPE, s poudarkom na identitetnih storitvah in optimizaciji API prehodov.",
+        summary: "Razvoj infrastrukturnih projektov za HPE, s poudarkom na identitetnih storitvah in optimizaciji API prehodov.",
         projects: [
           "Vzdrževanje aplikacije in podpornih modulov, ki integrirajo različne identitetne in avtorizacijske storitve na podlagi OAuth2.",
           "Razvoj funkcij za sistem, ki izboljšuje uporabniške profile s podrobnimi informacijami in vlogami.",
