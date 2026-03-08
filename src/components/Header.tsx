@@ -42,8 +42,8 @@ export const Header = ({ role, location, lang }: HeaderProps) => (
         <Mail size={12} /> gpodergajs@gmail.com
       </a>
       <span className="flex items-center gap-1"><Phone size={12} /> +386 31-774-359</span>
-      <a href="https://linkedin.com" className="hover:text-black transition-colors flex items-center gap-1"><Linkedin size={12} /> LinkedIn</a>
-      <a href="https://github.com" className="hover:text-black transition-colors flex items-center gap-1"><Github size={12} /> GitHub</a>
+      <a href="https://www.linkedin.com/in/ga%C5%A1per-podergajs-797416146/" className="hover:text-black transition-colors flex items-center gap-1"><Linkedin size={12} /> LinkedIn</a>
+      <a href="https://github.com/gpodergajs" className="hover:text-black transition-colors flex items-center gap-1"><Github size={12} /> GitHub</a>
     </div>
   </header>
 );
