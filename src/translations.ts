@@ -122,7 +122,7 @@ export const TRANSLATIONS: Record<Language, Translation> = {
     interestsList: ["Weightlifting", "Calisthenics", "Tennis", "Volleyball", "Bouldering", "Hiking", "Trekking", "Gaming", "Guitar", "Sci-fi", "Philosophy", "Fantasy", "D&D", "Plants", "Meditation"]
   },
   sl: {
-    role: "Programski inženir",
+    role: "Razvijalec programske opreme",
     location: "Celje, Slovenija",
     trajectory: "Izkušnje",
     inventory: "Tehnični veščine",
@@ -140,7 +140,7 @@ export const TRANSLATIONS: Record<Language, Translation> = {
     experience: [
       {
         company: "COMTRADE360 | HPE svetovalec",
-        role: "Inženir programske opreme",
+        role: "Razvijalec programske opreme",
         period: "sept. 2022 – Danes",
         location: "Ljubljana, Slovenija",
         technologies: ["Spring", "Spring-Boot", "Java", "Docker", "Kibana", "Grafana", "Prometheus", "FitNesse", "Lua", "Python", "Kong"],
@@ -160,7 +160,7 @@ export const TRANSLATIONS: Record<Language, Translation> = {
       },
       {
         company: "Navteh d.o.o",
-        role: "Fullstack inženir programske opreme",
+        role: "Fullstack razvijalec programske opreme",
         period: "maj 2020 – sept. 2022",
         location: "Celje, Slovenija",
         technologies: ["Java", "Kotlin", "Dropwizard", "MySQL", "PostgreSQL", "Angular", "JavaScript", "TypeScript", "jQuery", "CSS", "HTML"],
@@ -180,7 +180,7 @@ export const TRANSLATIONS: Record<Language, Translation> = {
       },
       {
         company: "Comtrade gaming",
-        role: "Fullstack inženir programske opreme",
+        role: "Fullstack razvijalec programske opreme",
         period: "dec. 2019 – maj 2020",
         location: "Maribor, Slovenija",
         technologies: [".NET", "ASP.NET", "C#", "jQuery", "JavaScript", "MSSQL", "SVN", "JIRA", "Jenkins"],
@@ -196,7 +196,7 @@ export const TRANSLATIONS: Record<Language, Translation> = {
       },
       {
         company: "CETIS d.d",
-        role: "Fullstack inženir programske opreme",
+        role: "Fullstack razvijalec programske opreme",
         period: "nov. 2018 – dec. 2019",
         location: "Celje, Slovenija",
         technologies: [".NET", "ASP.NET", "WPF", "C#", "MSSQL", "Mercurial", "jQuery", "HTML", "CSS"],
